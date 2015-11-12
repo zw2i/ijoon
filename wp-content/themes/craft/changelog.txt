@@ -1,0 +1,4 @@
+*** craft Changelog ***
+
+28-07-2015 - version 1.2.5
+*Theme options files updated to remove BUG "Cheating UH error"...
